@@ -62,8 +62,7 @@ This is a simple and user-friendly Python GUI application to display the current
 
 ## Notes
 - The application uses free public APIs, so rate limits may apply.
-- The interface is in English, but API results are localized to Turkish for city names.
-
+  
 ## Screenshots
 *(You can add a screenshot here by uploading an image and linking it.)*
 
